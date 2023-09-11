@@ -1,0 +1,10 @@
+# config.yaml
+
+lr: 0.001
+batch_size: 512
+epochs: 20
+image_size: 32
+num_images: 20
+model_path: "diffusion_model_checkpoint.pth"
+data_root: './data'
+model_save_path: 'diffusion_model_checkpoint.pth'
